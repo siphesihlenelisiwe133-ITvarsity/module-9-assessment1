@@ -1,0 +1,52 @@
+body{
+    background-color: #009788;
+    font-family: "Raleaway";  sans-serif;
+    text-align: center;
+}
+
+.container{
+    width: 100%;
+}
+
+p{
+    color: chartreuse;
+    font-size: 10vw;
+}
+
+#clock{
+    width: 100%;
+    text-align: center;
+}
+
+#progressBarContainer{
+    transform: rotate(180deg);
+}
+
+.ButtonSection{
+    width: 100%;
+    padding-top:  3rem;
+}
+
+.roundButton{
+    border-radius: 50%;
+    background-color: fuchsia;
+    border: 0;
+    width: 5rem;
+    height: 5rem;
+    font-size: 1rem;
+}
+
+.button1{
+    float: left;
+    width: 49%;
+}
+
+.button2{
+  float: right;
+    width: 49%;  
+}
+
+.selector{
+    background-color: forestgreen;
+    padding: .8rem  1.4rem;
+}
